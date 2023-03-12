@@ -594,7 +594,7 @@ function UILibrary.Main(PrjName,HideKey)
 				Toggle.BackgroundColor3 = Color3.fromRGB(31, 31, 31)
 				Toggle.BorderSizePixel = 0
 				Toggle.Position = UDim2.new(0.286780387, 0, 0, 0)
-				Toggle.Size = UDim2.new(1, 0, 0, 70)
+				Toggle.Size = UDim2.new(1, 0, 0, 322)
 				Toggle.AutoButtonColor = false
 				Toggle.Font = Enum.Font.SourceSans
 				Toggle.Text = ""
