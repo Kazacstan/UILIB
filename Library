@@ -1283,7 +1283,7 @@ function UILibrary.Main(PrjName,HideKey)
 				Button.BackgroundTransparency = 1
 				Button.BorderSizePixel = 0
 				Button.Position = UDim2.new(0.0412844047, 0, 0, 0)
-				Button.Size = UDim2.new(1, 0, 0, 50)
+				Button.Size = UDim2.new(1, 0, 0, 40)
 				Button.AutoButtonColor = false
 				Button.Font = Enum.Font.SourceSansSemibold
 				Button.Text = ""
